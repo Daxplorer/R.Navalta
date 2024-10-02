@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Daxplorer
-- 👀 I’m interested in learning to be a data science ananlyst
-- 🌱 I’m currently learning python, EDA, ML
-- 💞️ I’m looking to collaborate on anything EDA and ML related projects
+- 👋 Hi, I’m Rob Navalta
+- 👀 I’m interested in learning to be a software developer
+- 🌱 I’m currently learning HTML, CSS ...(Full stack)
+- 💞️ I’m looking to collaborate on anything software development related projects
 - 📫 How to reach me ...
 
 <!---
